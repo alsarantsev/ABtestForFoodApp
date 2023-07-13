@@ -20,5 +20,6 @@ The second part revolves around an A/A/B test, which aims to evaluate the impact
 <p>
   <h2>Summary </h2>
 
-1. Users spend about 60 seconds on the product, with few returning for more sessions. User activity peaks from October to March, likely due to the cold weather and the majority of events happening during this time. The lack of volatility in ticket prices also reduces the need for multiple visits.
+1. It is noteworthy that the largest portion of our losses occurs between the Main Screen and the Offer Screen, accounting for nearly 38% of the total loss. Additionally, the events that occur after the Offer Screen have high percentages of 81% and 91%, respectively. It should be noted that the "Tutorial" stage appears after payment, suggesting that it is likely the most skipped part of our funnel. Therefore, we will exclude this stage from our analysis.
+2. After conducting several A/A/B tests, it appears that changing the fonts did not result in an increase in sales. The sales funnel remained consistent, with a variation of only 1-2% between stages. The biggest loss of leads occurred between the Main Screen and the Offer Screen. Furthermore, the results of all proportion tests indicated that there was no significant difference between the two test groups and the control group, whether they were isolated or combined. Even when the statistical significance level was lowered, the outcome remained the same.
 </p>
